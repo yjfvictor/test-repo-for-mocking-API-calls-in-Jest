@@ -1,0 +1,14 @@
+# Doxyfile for test-repo-for-mocking-API-calls-in-Jest
+# Generated for Doxygen documentation
+
+PROJECT_NAME           = "test-repo-for-mocking-API-calls-in-Jest"
+PROJECT_NUMBER         = "1.0.0"
+PROJECT_BRIEF          = "NestJS project demonstrating Jest API mocking"
+OUTPUT_DIRECTORY       = docs
+INPUT                  = src test
+FILE_PATTERNS          = *.ts *.tsx
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
